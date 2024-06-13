@@ -1,3 +1,0 @@
-[submodule "libsnark"]
-	path = libsnark
-	url = git@gitlab.lrz.de:tum-ei-esi/group-identity/libsnark-demo.git
